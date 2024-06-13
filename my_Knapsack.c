@@ -61,8 +61,8 @@ int main() {
     // Determine maximum profit and selected items
     maxValue = knapSack(weights, values, selected_bool);
 
-    // Print maximum profit
-    printf("Maximum profit: %d\n", maxValue);
+    // Print maximum value
+    printf("Maximum value: %d\n", maxValue);
 
     // Print selected items
     printf("Selected items: ");

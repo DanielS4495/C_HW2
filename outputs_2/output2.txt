@@ -1,0 +1,2 @@
+Maximum value: 290
+Selected items: B C E
